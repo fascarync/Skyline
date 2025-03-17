@@ -1,0 +1,7 @@
+Skyline does alot with variables and gradients along with the @media.
+
+The effect of sizing the window and the styling changes are interesting
+
+The note is that variables are used mostly for colors is made in the lesson, but they also say you can use for other things.
+
+Note use of two linear-gradients in some cases, the second one is applied behind the first as I understand it.
